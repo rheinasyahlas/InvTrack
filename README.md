@@ -1,4 +1,4 @@
-# Sheraton Bandung - Integrated Invoice Monitor 🏨
+# Sheraton Bandung - Integrated Invoice Monitor 
 
 Aplikasi web interaktif berbasis Streamlit yang dirancang untuk memantau status invoice, manajemen risiko aging (usia dokumen), dan pengiriman notifikasi otomatis untuk operasional finansial di Sheraton Bandung Hotel & Towers.
 
